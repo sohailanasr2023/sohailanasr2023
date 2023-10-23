@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohaila nasr</h1>
 <h3 align="center">A passionate Data science from Egypt</h3>
 
-<img align="right" alt"coding" width="400" scr="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img align="right" alt="coding" width="400" scr="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohailanasr2023&label=Profile%20views&color=0e75b6&style=flat" alt="sohailanasr2023" /> </p>
 
